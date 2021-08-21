@@ -4,4 +4,4 @@ ls
 cd /app
 ls
 chmod +x start.sh
-./start.sh
+# ./start.sh
