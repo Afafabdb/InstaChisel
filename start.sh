@@ -5,4 +5,4 @@ gzip --decompress chisel_1.7.6_linux_amd64.gz
 mv chisel_1.7.6_linux_amd64 chisel
 chmod +x chisel
 echo Launching Chisel
-./chisel server --port $PORT --proxy https://google.co.uk
+./chisel server --port $PORT --proxy https://google.com
